@@ -23,3 +23,7 @@ Backend: ASP.NET Core with C#
 Database: SQL Server / PostgreSQL
 Security: HTTPS, Data Encryption, RBAC
 Hosting: Azure, AWS, IIS
+
+*OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e10362a9-25c4-4eae-8a52-4993e915ca8b)
